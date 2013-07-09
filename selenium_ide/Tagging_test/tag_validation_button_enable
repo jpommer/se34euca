@@ -117,8 +117,78 @@
 	<td></td>
 </tr>
 <tr>
+	<td>type</td>
+	<td>css=input.focus-here</td>
+	<td>Name</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>css=input[title=&quot;Type the value of this tag&quot;]</td>
+	<td>buckaroo</td>
+</tr>
+<tr>
 	<td>click</td>
-	<td>xpath=(//button[@type='button'])[2]</td>
+	<td>css=div.icon_add</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=button-dialog-edittags-save</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForElementPresent</td>
+	<td>link=buckaroo</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=buckaroo</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Tags</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;checkbox&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=more-actions-images</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=body..no_search</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Manage tags</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=body..no_search</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//tbody[5]/tr/td[4]/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//tbody[4]/tr/td[4]/div</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=button-dialog-edittags-save</td>
 	<td></td>
 </tr>
 </tbody></table>
